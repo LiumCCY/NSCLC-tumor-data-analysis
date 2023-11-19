@@ -1,13 +1,13 @@
 ## non-small cell lung cancer(NSCLC)
 
 ## Patients and immune cell data
-   * '''Endometrial cancer Panel 2 cell density data'''
+   * `Endometrial cancer Panel 2 cell density data`
 
 ## Environment 
-   * '''requirement.txt'''
+   * `requirement.txt`
 
 ## Run
-   * '''python clustermap.py'''
+   * `python clustermap.py`
    * Log normalization
    
 
